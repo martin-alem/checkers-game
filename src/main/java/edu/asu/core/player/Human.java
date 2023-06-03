@@ -26,7 +26,7 @@ public class Human extends Player {
      */
     @Override
     public String getPlayerName() {
-        return null;
+        return this.playerName;
     }
 
     /**
@@ -35,7 +35,7 @@ public class Human extends Player {
      */
     @Override
     public Piece getPiece() {
-        return null;
+        return this.piece;
     }
 
     /**

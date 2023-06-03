@@ -7,30 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1532e77-7c17-4d8e-b6a6-30e8bb09415d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/board/CheckerBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/board/StandardCheckerBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/piece/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/piece/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/piece/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/player/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/player/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/ui/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/ui/console/ConsoleUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/util/BoardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/util/Letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/asu/util/PlayerSymbol.java" afterDir="false" />
+    <list default="true" id="c1532e77-7c17-4d8e-b6a6-30e8bb09415d" name="Changes" comment="CheckerBoard v2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/asu/core/piece/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/piece/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/asu/core/player/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/asu/core/player/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +63,25 @@
       <option name="presentableId" value="Default" />
       <updated>1685701760650</updated>
     </task>
+    <task id="LOCAL-00001" summary="CheckerBoard v2">
+      <created>1685804362702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685804362702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CheckerBoard v2">
+      <created>1685804474509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685804474509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CheckerBoard v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CheckerBoard v2" />
   </component>
 </project>
