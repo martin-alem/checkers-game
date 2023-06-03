@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.asu"},{"l":"edu.asu.controller"},{"l":"edu.asu.core"},{"l":"edu.asu.core.board"},{"l":"edu.asu.core.piece"},{"l":"edu.asu.core.player"},{"l":"edu.asu.ui"},{"l":"edu.asu.ui.console"},{"l":"edu.asu.util"}];updateSearchResults();
